@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2732" height="2732" viewBox="0 0 2732 2732">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3880ff"/>
+      <stop offset="1" stop-color="#3dc2ff"/>
+    </linearGradient>
+  </defs>
+  <!-- Dark splash: dark canvas with the same centered rounded badge. -->
+  <rect width="2732" height="2732" fill="#121212"/>
+  <rect x="1116" y="1116" width="500" height="500" rx="110" fill="url(#g)"/>
+  <text x="1366" y="1366" fill="#ffffff" font-family="Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="250" text-anchor="middle"
+        dominant-baseline="central">CP</text>
+  <text x="1366" y="1760" fill="#ffffff" font-family="Helvetica, Arial, sans-serif"
+        font-weight="600" font-size="92" text-anchor="middle"
+        dominant-baseline="central">Cristhian Pereira</text>
+</svg>
