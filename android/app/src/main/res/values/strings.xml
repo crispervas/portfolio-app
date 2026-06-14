@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cristhian Pereira</string>
+    <string name="title_activity_main">Cristhian Pereira</string>
+    <string name="package_name">com.cristhianpereira.portfolio</string>
+    <string name="custom_url_scheme">com.cristhianpereira.portfolio</string>
+</resources>
